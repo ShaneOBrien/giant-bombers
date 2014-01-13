@@ -21,15 +21,25 @@ What Needs Doing
 ============
 
 Keyboard controls.
+
 Special moves.
+
 Character selection screen.
+
 Tightening of controls.
+
 Animate characters resetting when someone scores.
+
 AI player.
+
 Art.
+
 Sound.
+
 Music.
+
 Move to Unity 2D?
+
 Online Play?
 
 
