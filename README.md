@@ -10,6 +10,7 @@ How To Play
 The current build absolutely requires two Xbox 360 Gamepads.
 
 Move            | Right Stick
+
 Throw Disc/Dive | A
 
 
