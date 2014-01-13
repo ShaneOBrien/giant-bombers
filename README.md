@@ -42,6 +42,7 @@ Move to Unity 2D?
 
 Online Play?
 
+Oculus Rift support.
 
 Bugs
 ============
