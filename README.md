@@ -21,6 +21,7 @@ What Needs Doing
 ============
 
 Keyboard controls.
+Special moves.
 Character selection screen.
 Tightening of controls.
 Animate characters resetting when someone scores.
