@@ -3,6 +3,9 @@ GiantBombers
 
 A WindJammers clone made in 8 hours at Dublin Game Craft in December 2013. Previously titled "Winter Jammers".
 
+You can download an old build here: 
+http://shaneobrien.ie/gamejams/DGCDec13/WinterJammers.rar
+
 
 How To Play
 ============
