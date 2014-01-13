@@ -1,7 +1,7 @@
 GiantBombers
 ============
 
-A WindJammers clone made in 8 hours at Dublin Game Craft in December 2013.
+A WindJammers clone made in 8 hours at Dublin Game Craft in December 2013. Previously titled "Winter Jammers".
 
 
 How To Play
